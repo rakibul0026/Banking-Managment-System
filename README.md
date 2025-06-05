@@ -8,12 +8,18 @@ This is a console-based Java application simulating basic banking functionalitie
 🏦 BankAccount and SavingsAccount use Inheritance and Polymorphism
 
 ➕ Method Overloading for flexible deposits
+
 🔁 Transaction History for last operation
+
 💰 Interest Application in SavingsAccount
+
 🔄 Menu-driven interface with real-time console input
 
 🛠 Technologies Used
+
 Language: Java
+
 Platform: Console Application (CLI)
+
 Concepts: OOP (Abstraction, Inheritance, Polymorphism, Encapsulation)
 
