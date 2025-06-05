@@ -3,6 +3,12 @@
 This is a simple console-based Java application that simulates basic banking operations such as checking balance, depositing, withdrawing, and viewing the previous transaction. This project is ideal for beginners looking to understand core Java and Object-Oriented Programming (OOP) principles.
 
 ---
+BankingApplication/
+│
+├── Account.java
+├── BankAccount.java
+├── SavingsAccount.java
+└── BankingApplication.java
 
 ## 🔧 Features
 
